@@ -4,7 +4,6 @@
 * [Quilting](#quilting)
 * [Detection](#detection)
 * [Face Swapd](#face-swap)
----
 
 ## Panorama
 
