@@ -80,6 +80,6 @@ Before swap:
 
 ![pic5](https://user-images.githubusercontent.com/61955371/225738797-265a8b06-6e0b-4ed9-9d13-1ba8fc7dede1.png)
 
-After Swap:
+After swap:
 
 ![pic6](https://user-images.githubusercontent.com/61955371/225738816-d5cab97d-dbf3-4c0e-af35-a2856f3b87e8.png)
