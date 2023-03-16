@@ -46,3 +46,25 @@ Output image 2:
 ---
 
 - ## Detection
+
+Develop an object detector based on gradient features and sliding window classification.
+
+Training pictures set 1:
+
+![pic1](https://user-images.githubusercontent.com/61955371/225737082-071f46c8-248f-425f-bc8f-b1e5d3681051.png)
+
+Detection 1:
+
+![pic2](https://user-images.githubusercontent.com/61955371/225737162-2537196c-3f62-48cb-8f54-fd1c85257ca5.png)
+
+Training pictures set 2:
+
+![pic3](https://user-images.githubusercontent.com/61955371/225737713-96ec91a0-67db-4abe-bef9-7ab0c7440628.png)
+
+Detection 2:
+
+![pic4](https://user-images.githubusercontent.com/61955371/225737761-c2b378cd-f26b-4ae2-a9bc-87d925a5cabc.png)
+
+---
+
+- ## Face Swap
