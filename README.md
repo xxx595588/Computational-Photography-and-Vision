@@ -1,6 +1,12 @@
 # Computational Photography & Vision
+## Table of contents
+* [Panorama](#panorama)
+* [Quilting](#quilting)
+* [Detection](#detection)
+* [Face Swapd](#face-swap)
+---
 
-- ## Panorama
+## Panorama
 
 Align and blend together multiple photographs to form a panorama mosaic that extends the field of view of a camera.
 
@@ -23,7 +29,7 @@ Output image 2:
 
 ---
  
-- ## Quilting
+## Quilting
 
 Develop code to stitch together image patches sampled from an input texture in order to synthesize new texture images.
 
@@ -45,7 +51,7 @@ Output image 2:
 
 ---
 
-- ## Detection
+## Detection
 
 Develop an object detector based on gradient features and sliding window classification.
 
@@ -67,7 +73,7 @@ Detection 2:
 
 ---
 
-- ## Face Swap
+## Face Swap
 
 Develop a function to warp from one face to another using the piecewise affine warping technique.
 
